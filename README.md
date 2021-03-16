@@ -1,6 +1,8 @@
 # notetaker
 ## Description
+
 This app allows a user to quickly and eaily create a Note and a description to be saved for later. The note can then be reopened, viewed or deleted.
+
 ----------------------
 
 ## User Story
